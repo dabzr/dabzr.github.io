@@ -107,3 +107,4 @@ They must be placed directly under your site's `static/` directory, i.e. not in 
 
 The 'cooked rice' emoji used as a favicon for the example site was created by the [Twemoji project](https://twemoji.twitter.com/) and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 # blog
+# blog
