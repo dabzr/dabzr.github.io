@@ -32,3 +32,6 @@ but if i have choose an artist today that would be mr. bob dylan
 3. FIGHTING GAMES! recently i acquired the hobby to play fighting games (mainly street fighter) and is something that im loving.
 
 ![evo moment 37](https://img.pastemagazine.com/wp-content/uploads/2024/05/09113233/street-fighter-3-third-strike-main-3.jpg)
+
+
+there more interests too but to know more about me you'll have to read my posts :D 
