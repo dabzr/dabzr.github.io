@@ -22,11 +22,10 @@ here's my workspace!
 
 2. i also love music! and i (try to) play guitar.
 
-there's not a specific genre that i listen the most, and what i like to listen varies from my vibe at the time.
-a habit that i have that proves that statement is that i have a six-month playlists (some times three-month playlists) that i try to not repeat songs of the 
-last playlist and try to use songs that define me the most in that period of time.
+there isn't a specific genre i listen to the most — what i like really varies depending on my vibe at the time.
+one habit that kinda proves that is that i make semiannual playlists (sometimes quarterly ones), where i try not to repeat songs from the last playlist and pick tracks that feel like they define me during that period.
 
-but if i have choose an artist today that would be mr. bob dylan
+but if i had to choose one artist today, it would be mr. bob dylan.but if i have choose an artist today that would be mr. bob dylan
 ![bob dylan, the man](https://monkeybuzz.com.br/wp-content/uploads/2013/12/artigo(13).jpg) 
 
 3. FIGHTING GAMES! recently i acquired the hobby to play fighting games (mainly street fighter) and is something that im loving.
