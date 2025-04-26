@@ -25,7 +25,8 @@ here's my workspace!
 there isn't a specific genre i listen to the most — what i like really varies depending on my vibe at the time.
 one habit that kinda proves that is that i make semiannual playlists (sometimes quarterly ones), where i try not to repeat songs from the last playlist and pick tracks that feel like they define me during that period.
 
-but if i had to choose one artist today, it would be mr. bob dylan.but if i have choose an artist today that would be mr. bob dylan
+but if i had to choose one artist today, it would be mr. bob dylan.
+
 ![bob dylan, the man](https://monkeybuzz.com.br/wp-content/uploads/2013/12/artigo(13).jpg) 
 
 3. FIGHTING GAMES! recently i acquired the hobby to play fighting games (mainly street fighter) and is something that im loving.
