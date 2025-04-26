@@ -16,7 +16,7 @@ within computer science, a few areas really stand out to me:
 
 and there’s plenty more i’m eager to dive into. 
 
-![my fedora-sway workspace](https://github.com/dabzr/dabzr.github.io/blob/9dc7aeadf9b7a1ede8494d7181df4cdb43d972ce/images/workspace.jpg)
+![my fedora-sway workspace](https://github.com/dabzr/dabzr.github.io/blob/0fdf6f33c98613e2c51f0a745fb0fb13c9b14262/images/workspace.jpg)
 
 here's my workspace!
 
