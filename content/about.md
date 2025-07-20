@@ -1,7 +1,8 @@
-+++
-title = "About"
-description = "If you are curious about the author"
-+++
+---
+title: "About"
+date: 2025-07-20
+draft: false
+---
 
 1. i’m a computer science student (linux and neovim, btw).
 

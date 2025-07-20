@@ -1,90 +1,85 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-theme = 'risotto'
 title = "dabzr"
-author = "dabzr"
-paginate = 3
-DefaultContentLanguage = "en-us"
-enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-ignoreErrors = ["error-remote-getjson"]
+theme = "hugo-theme-flat"
+themesDir = "themes"
+enableRobotsTXT = true
+hasCJKLanguage = true
+baseURL = ""
 
-# Automatically add content sections to main menu
-sectionPagesMenu = "main"
+[pagination]
+pagerSize = 4
+
+# these values are hugo built in markup config
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = false
+noClasses = false
+noHl = false
+style = 'monokailight'
+tabWidth = 4
 
 [params]
-noindex = false
+description = "Example site for hugo-theme-flat"
+mainSections = ['posts']
 
-#[params.theme]
-# palette = "base16-dark"
+## uncomment belows and set proper values to enable remark42
+# [params.remark42]
+# host=''
+# site_id=''
+# max_shown_comments=100
+# theme='light'
+# locale='en'
+# show_email_subscription=false
+# simple_view=true
 
-# Sidebar: about/bio
-[params.about]
-title = "dabzr"
-description = "my personal blog"
-logo = "images/rice.svg"
 
-# Sidebar: social links
-# Available icon sets:
-# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
-# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+# you can set multi row of footers like these
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Creative Commons Attribution 4.0 International"
+url = "https://creativecommons.org/licenses/by/4.0/"
+pre = "Copyright <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY-4.0</a>"
 
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Hugo"
+url = "https://gohugo.io"
+pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
+[[params.footer_rows.items]]
+name = "theme flat"
+url = "https://cgit.leafee98.com/hugo-theme-flat.git"
+pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">hugo-theme-flat</a>"
+
+
+[[menus.main]]
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+#[[menus.main]]
+#name = "Essays"
+#url = "/essays/"
+#weight = 40
+
+[[menus.main]]
+pageref = "about"
+name = "About"
+weight = 80
+
+# 2-level sub menus are supported
+[[menus.main]]
+name = "Services"
+weight = 60
+[[menus.main]]
+parent = "Services"
+name = "Github"
 url = "https://github.com/dabzr"
-
-
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-# For hugo >= 0.60.0, enable inline HTML
-[markup.goldmark.renderer]
-unsafe = true
-
-[markup]
-
-  # Table of contents
-  # Add toc = true to content front matter to enable
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel   = 3
-    ordered    = true
-
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
+#[[menus.main]]
+#parent = "Services"
+#name = "Service B"
+#url = "#"
