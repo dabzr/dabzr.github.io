@@ -13,7 +13,7 @@ E numa determinada parte ele diz o seguinte:
 
 E isso, imediamente, me lembrou de uma frase que é do filme [Tróia de 2004](https://www.youtube.com/watch?v=GMxwhmbF98s&pp=ygUjZ29kcyBlbnZ5IHVzIGJlY2F1c2Ugd2UgYXJlIG1vcnRhbHM%3D)
 (que nunca vi, por sinal), e é daí que vem o título desse blog:
-> “Os deuses nos invejam. Eles nos invejam porque somos mortais. Porque cada momento pode ser o último.
+> Os deuses nos invejam. Eles nos invejam porque somos mortais. Porque cada momento pode ser o último.
 Tudo é mais bonito porque estamos condenados.
 
 Todo dia quando a gente acorda a gente pode morrer a qualquer momento. Tudo que fazemos só nos impacta porque nós vamos morrer e porque nosso tempo aqui
