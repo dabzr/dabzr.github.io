@@ -12,7 +12,7 @@ Por conta disso, nesse período sempre assisto muitos filmes, que é algo que te
 como sabem pelo meu post [sobre a prática](https://dabzr.github.io/posts/4/) eu comecei minha jornada de melhorar na cozinha. 
 Além disso, também voltei a tentar ler todos os dias, assisti bastante Soprano's, ouvi vários discos e, claro, também vi **vários** filmes.
 
-(Caso tenha alguma curiosidade de ver os filmes que costumo assistir, sempre os registro no meu [Letterboxd](https://letterboxd/novodia).)
+(Caso tenha alguma curiosidade de ver os filmes que costumo assistir, sempre os registro no meu [Letterboxd](https://letterboxd.com/novodia).)
 
 Até o momento da escrita desse post foram 26 filmes (em 23 dias). Sendo a maioria deles ótimos filmes que mudaram muito minha percepção
 sobre o cinema e até sobre a vida.
