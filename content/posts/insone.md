@@ -36,7 +36,7 @@ Minhas chances eram poucas, mas eu precisava viver a todo custo. Eu não poderia
 
 Cada pisada pesava uma tonelada. A cada passo a dor se intensificava. O caminho entre a sala de estar e meu quarto era como o purgatório. 
 Pareceu ter durado milênios. Senti como se estivesse pagando todos os meus pecados ali para chegar ao Céu. Pálido como a neve, vou direto para cama pegar meu celular.
-Imeditamente, porém, entendo exatamente o que aconteceu. Deixei meu celular, velho, de quase uma década, na tomada.
+Imediatamente, porém, entendo exatamente o que aconteceu. Deixei meu celular, velho, de quase uma década, na tomada.
 Lembro dele sempre esquentar bastante quando passava muito tempo carregando. Ele explodiu. Minha saída para esse sofrimento era na verdade a causa dele.
 
 Completamente exausto me deito, não tenho forças para tentar mais nada. Nem pra pensar em mais nada. Que forma deprimente e brutal de morrer.
