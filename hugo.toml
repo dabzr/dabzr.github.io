@@ -8,6 +8,9 @@ baseURL = ""
 [pagination]
 pagerSize = 4
 
+[markup.goldmark.renderer]
+hardWraps = true
+
 # these values are hugo built in markup config
 [markup.highlight]
 anchorLineNos = false

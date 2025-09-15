@@ -3,7 +3,7 @@ author = "Dylan"
 title = "Tem sido difícil"
 date = "2025-09-07"
 tags = [
-    "Português", "Texto Literário", "Desabafo"
+    "Português", "Texto Literário", "Desabafo", "Poema"
 ]
 +++
 

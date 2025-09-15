@@ -10,77 +10,28 @@ tags = [
 
 # O Metrô
 
-Descendo do ônibus da faculdade, leves gotas de chuvas começam a cair. Me apresso para não me molhar, mas com cuidado para não sujar as chinelas em
-algum barro. Na metade do caminho percebo o metrô vindo de longe e começo a correr para não perdê-lo. 
-Ofegante, chego na estação e entro tranquilamente no metrô. Um rapaz acabou ficando de fora, mas como ainda estavamos parados, o motorista acabou
-abrindo a porta para esse rapaz. Não havia lugar para sentar, mas não tinha muita gente. Em pé e ouvindo música no fone de ouvido, minha mente viaja para 
-diferentes espaços. Viaja pra algum rolê com meus amigos, com a gente se divertindo e rindo de tudo. Viaja para a casa da minha mãe no interior,
-onde me sinto absolutamente livre de qualquer preocupação. Viaja para hoje de manhã, onde vi o nascer do sol secando as roupas no varal.
-Viaja para esse momento, onde as gotas de chuva batem na janela do metrô.
+Descendo do ônibus da faculdade, leves gotas de chuvas começam a cair. Me apresso para não me molhar, mas com cuidado para não sujar as chinelas em algum barro. Na metade do caminho percebo o metrô vindo de longe e começo a correr para não perdê-lo. 
+Ofegante, chego na estação e entro tranquilamente no metrô. Um rapaz acabou ficando de fora, mas como ainda estavamos parados, o motorista acabou abrindo a porta para esse rapaz. Não havia lugar para sentar, mas não tinha muita gente. Em pé e ouvindo música no fone de ouvido, minha mente viaja para diferentes espaços. Viaja pra algum rolê com meus amigos, com a gente se divertindo e rindo de tudo. Viaja para a casa da minha mãe no interior, onde me sinto absolutamente livre de qualquer preocupação. Viaja para hoje de manhã, onde vi o nascer do sol secando as roupas no varal. Viaja para esse momento, onde as gotas de chuva batem na janela do metrô.
 
-Após algumas estações, uma moça, que imediatamente rouba minha atenção, entra no metrô. Ela era alta, tinha cabelos loiros tingidos, vestia um short curto e um
-cropped lilás. Também parecia ser um pouco mais velha que eu, talvez uns dois ou três anos. Ela, inicialmente, estava relativamente distante de mim, e aos poucos
-se aproximou. Percebi, através da visão periférica, que ela estava com um olhar fixo na minha direção. Olho para ela, para ter certeza que não estou imaginando,
-e, de imediato, nossos olhos se encontram. Desvio o olhar e começo a ficar muito nervoso. Um calor desconfortável sobe no meu pescoço. Não sei onde me enfiar.
+Após algumas estações, uma moça, que imediatamente rouba minha atenção, entra no metrô. Ela era alta, tinha cabelos loiros tingidos, vestia um short curto e um cropped lilás. Também parecia ser um pouco mais velha que eu, talvez uns dois ou três anos. Ela, inicialmente, estava relativamente distante de mim, e aos poucos se aproximou. Percebi, através da visão periférica, que ela estava com um olhar fixo na minha direção. Olho para ela, para ter certeza que não estou imaginando, e, de imediato, nossos olhos se encontram. Desvio o olhar e começo a ficar muito nervoso. Um calor desconfortável sobe no meu pescoço. Não sei onde me enfiar.
+Tento, discretamente, olhá-la mais algumas vezes e não consigo deixar de reparar o quão linda é. Não é uma beleza de outro mundo, é uma beleza ordinária, mas que chama atenção para quem aprecia o belo, independente de qual forma. A observo vindo na minha direção, onde para em frente a mim e consigo ver bem de perto o seu perfil. Nesse momento quase explodi de nervosismo, um desconforto bizarro tomava conta de mim. Ela se inclinou pra frente, tentando ver algo. Percebi que verificava se o assento ao meu lado estava vazio. Nele havia uma criança encolhida, que estava provavelmente dormindo. Depois de perceber que o assento estava ocupado, ela se afastou de mim.
 
-Tento, discretamente, olhá-la mais algumas vezes e não consigo deixar de reparar o quão linda é. Não é uma beleza de outro mundo, é uma beleza
-ordinária, mas que chama atenção para quem aprecia o belo, independente de qual forma. A observo vindo na minha direção, onde para em frente a mim e consigo
-ver bem de perto o seu perfil. Nesse momento quase explodi de nervosismo, um desconforto bizarro tomava conta de mim.
-Ela se inclinou pra frente, tentando ver algo. Percebi que verificava se o assento ao meu lado estava vazio.
-Nele havia uma criança encolhida, que estava provavelmente dormindo. Depois de perceber que o assento estava ocupado, ela se afastou de mim.
-Pouco depois, uma cadeira vagou e ela sentou-se ao lado de um meninozinho e começou a utilizar o celular quase ininterruptamente.  
-Um grande alívio preencheu minha alma. Ufa, não era pra mim, ela só queria se sentar. Isso me levou a refletir sobre minha sexualidade, tema que vai e volta na
-minha vida. Quando alguém me pergunta, sempre respondo que sou gay. Isso ocorre pois não tenho certeza se gosto ou não de mulheres.
-E tenho certeza absoluta que me atraio por homens. Porém, se eu realmente sou homossexual, por que me senti tão desconfortável nessa situação?
-Será que é por minha fobia social? Ou é por que eu me senti atraído de alguma forma por ela?
-Ou é por medo de uma moça tão linda se atrair por mim e eu não conseguir corresponder? Obviamente, não sei responder essa pergunta.
+Pouco depois, uma cadeira vagou e ela sentou-se ao lado de um meninozinho e começou a utilizar o celular quase ininterruptamente. Um grande alívio preencheu minha alma. Ufa, não era pra mim, ela só queria se sentar. Isso me levou a refletir sobre minha sexualidade, tema que vai e volta na minha vida. Quando alguém me pergunta, sempre respondo que sou gay. Isso ocorre pois não tenho certeza se gosto ou não de mulheres. E tenho certeza absoluta que me atraio por homens. Porém, se eu realmente sou homossexual, por que me senti tão desconfortável nessa situação? Será que é por minha fobia social? Ou é por que eu me senti atraído de alguma forma por ela? Ou é por medo de uma moça tão linda se atrair por mim e eu não conseguir corresponder? Obviamente, não sei responder essa pergunta.
 Por isso deixo esse pensamento ansioso fugir da minha mente, como já ocorreu outras vezes. 
 
-Num determinado momento, um grupo de cadeiras vagam, do estilo duas na frente de duas. Sento-me na janela e aprecio a paisagem urbana da minha cidade.
-Porém, algo muito estranho ocorre. Essa moça, de repente sai da cadeira que estava e parte na minha direção, sentando-se na cadeira diagonalmente oposta à minha.
-Estamos agora muito próximos e eu fico muito nervoso novamente. Por que ela veio para cá? Começo
-a me perguntar, a resposta parecia óbvia, mas não conseguia conceber. Não sabia onde enfiar minha cabeça, ainda mais quando percebo que ela simplesmente
-não mexia mais no celular, ela só estava lá, parada, como se esperasse algo. Finjo olhar para o lado para olhar para ela, e nesse momento nossos
-olhos se cruzam mais uma vez. Agora bem de perto, percebo seus lindos olhos verdes.
-Estou ainda mais aflito, meu corpo começa a reagir de forma diferente àquela situação. Não sabia o que fazer, olhava para ela e desviava o olhar várias vezes,
-não sabia se tentava puxar conversa, não sabia se ela realmente me queria ou não, se seria desconfortável para ela se eu falasse alguma coisa.
-Ela pareceu estar do meu lado por um século. O tempo não passava, muito menos o nervosismo.
+Num determinado momento, um grupo de cadeiras vagam, do estilo duas na frente de duas. Sento-me na janela e aprecio a paisagem urbana da minha cidade. Porém, algo muito estranho ocorre. Essa moça, de repente sai da cadeira que estava e parte na minha direção, sentando-se na cadeira diagonalmente oposta à minha. Estamos agora muito próximos e eu fico muito nervoso novamente. Por que ela veio para cá? Começo a me perguntar, a resposta parecia óbvia, mas não conseguia conceber. Não sabia onde enfiar minha cabeça, ainda mais quando percebo que ela simplesmente não mexia mais no celular, ela só estava lá, parada, como se esperasse algo. Finjo olhar para o lado para olhar para ela, e nesse momento nossos olhos se cruzam mais uma vez. Agora bem de perto, percebo seus lindos olhos verdes.
+Estou ainda mais aflito, meu corpo começa a reagir de forma diferente àquela situação. Não sabia o que fazer, olhava para ela e desviava o olhar várias vezes, não sabia se tentava puxar conversa, não sabia se ela realmente me queria ou não, se seria desconfortável para ela se eu falasse alguma coisa. Ela pareceu estar do meu lado por um século. O tempo não passava, muito menos o nervosismo.
 
-Até que, finalmente, estava próximo ao destino. Me levanto e ando até uma porta mais distante de onde estava, pois era mais próxima da saída do metrô.
-Percebo que quem estava sentada agora ao lado do meninozinho era outra moça e, pelo jeito que ambos interagiam, essa moça era a mãe dele.
-Ou seja, a linda moça dos olhos verdes simplesmente deu lugar para a mãe sentar ao lado do filho e depois veio atrás da próxima cadeira vaga para se sentar.
-Nada além disso. Porém, continuei olhando para suas costas na cadeira que estava sentada, esperando que olhasse para trás, procurando onde eu estava.
-Queria saber se ela se importava com a minha existência como eu me importava com a dela. 
+Até que, finalmente, estava próximo ao destino. Me levanto e ando até uma porta mais distante de onde estava, pois era mais próxima da saída do metrô. Percebo que quem estava sentada agora ao lado do meninozinho era outra moça e, pelo jeito que ambos interagiam, essa moça era a mãe dele. Ou seja, a linda moça dos olhos verdes simplesmente deu lugar para a mãe sentar ao lado do filho e depois veio atrás da próxima cadeira vaga para se sentar. Nada além disso. Porém, continuei olhando para suas costas na cadeira que estava sentada, esperando que olhasse para trás, procurando onde eu estava. Queria saber se ela se importava com a minha existência como eu me importava com a dela. 
 Ela não olhou, e finalmente saí.
 
 # A Avenida
 
-Ainda um pouco desconcertado, com uma sensação estranha dentro de mim, chego numa das principais avenidas da cidade. Essa avenida que tanto me era conhecida.
-Por onde passei quase todos os dias nos últimos três anos. Por onde fui tão feliz com meus amigos. Estou perto de casa.
-E no céu agora não aparenta haver nem uma única gota de chuva.
-No caminho, vejo as costas de um sujeito com uma fisionomia que me fascina de primeira, parecia ter saído de um cartum do Robert Crumb.
-Ele tinha ombros estupidamente caídos, era corcunda, aparentava ter cerca de 50 anos de idade, andava com os pés num ângulo de 45 graus para fora e vestia
-uma camisa com os escritos "Bitcoin Crosses All Borders". Ao passar do seu lado, ultrapassando-o ele me olha com apenas um olho.
-Um olho com catarata. Apesar de ter visto um único olho, presumo que ele não seja completamente cego,
-pois não faria sentido ele estar andando do jeito que estava na rua se fosse. 
+Ainda um pouco desconcertado, com uma sensação estranha dentro de mim, chego numa das principais avenidas da cidade. Essa avenida que tanto me era conhecida. Por onde passei quase todos os dias nos últimos três anos. Por onde fui tão feliz com meus amigos. Estou perto de casa. E no céu agora não aparenta haver nem uma única gota de chuva. No caminho, vejo as costas de um sujeito com uma fisionomia que me fascina de primeira, parecia ter saído de um cartum do Robert Crumb. Ele tinha ombros estupidamente caídos, era corcunda, aparentava ter cerca de 50 anos de idade, andava com os pés num ângulo de 45 graus para fora e vestia uma camisa com os escritos "Bitcoin Crosses All Borders". Ao passar do seu lado, ultrapassando-o ele me olha com apenas um olho. Um olho com catarata. Apesar de ter visto um único olho, presumo que ele não seja completamente cego, pois não faria sentido ele estar andando do jeito que estava na rua se fosse. 
 Depois disso, continuei minha jornada rumo ao meu lar. 
 
-Passando agora pela principal universidade da cidade, ainda pensando no que ocorreu no metrô, vejo um senhor andando na direção contrária da minha.
-Ele também parecia ter cerca de 50 anos de idade, era baixinho, barrigudo e tinha uma aparência de morador de rua. Quando nos aproximamos, ele me cumprimenta e eu, 
-educadamente, cumprimento de volta. Entretanto, após nos cruzarmos ele fala algo comigo e vem na minha direção. Me viro e vou ao seu encontro.
-Ele dá a mão para um aperto de mão, que correspondo. Ele fica bem próximo e pergunta se sou professor, respondo que não, que sou estudante.
-Então me pergunta se sou estudante de balé e me olha de baixo pra cima. Tudo isso enquanto ainda aperta minha mão, agora pressionando meus dedos,
-como se eu fosse uma donzela. 
-Respondo novamente que não. Então ele me pergunta se eu gostaria de ir para casa dele, agora, notando sua malícia tento fazer um pouco de força para soltar minha mão, 
-sem ser violento. Respondo que não e agora ele pressiona minha mão ainda mais, como se não quisesse me deixar ir. 
-Ele pergunta, expondo seus dentes podres: "Sua rola é grande?". Eu respondo, extremamente desconfortável: "Não, não" e agora uso mais força para soltar minha mão.
-Ele pergunta: "É grande, hein?". Dou a mesma resposta conseguindo finalmente livrar minha mão e sigo meu caminho. 
-Apesar disso, pode ser meio estranho falar, mas provavelmente fiquei menos nervoso sendo assediado sexualmente do que perto daquela moça.
-O nervosismo senti, principalmente, depois do assédio. No momento, porém, fiquei relativamente calmo. Provavelmente porque tudo aconteceu tão rápido e de forma
-tão estranha que demorei para processar. 
+Passando agora pela principal universidade da cidade, ainda pensando no que ocorreu no metrô, vejo um senhor andando na direção contrária da minha. Ele também parecia ter cerca de 50 anos de idade, era baixinho, barrigudo e tinha uma aparência de morador de rua. Quando nos aproximamos, ele me cumprimenta e eu,  educadamente, cumprimento de volta. Entretanto, após nos cruzarmos ele fala algo comigo e vem na minha direção. Me viro e vou ao seu encontro. Ele dá a mão para um aperto de mão, que correspondo. Ele fica bem próximo e pergunta se sou professor, respondo que não, que sou estudante. Então me pergunta se sou estudante de balé e me olha de baixo pra cima. Tudo isso enquanto ainda aperta minha mão, agora pressionando meus dedos, como se eu fosse uma donzela.  Respondo novamente que não. Então ele me pergunta se eu gostaria de ir para casa dele, agora, notando sua malícia tento fazer um pouco de força para soltar minha mão,  sem ser violento. Respondo que não e agora ele pressiona minha mão ainda mais, como se não quisesse me deixar ir.  Ele pergunta, expondo seus dentes podres: "Sua rola é grande?". Eu respondo, extremamente desconfortável: "Não, não" e agora uso mais força para soltar minha mão. Ele pergunta: "É grande, hein?". Dou a mesma resposta conseguindo finalmente livrar minha mão e sigo meu caminho.
+Apesar disso, pode ser meio estranho falar, mas provavelmente fiquei menos nervoso sendo assediado sexualmente do que perto daquela moça. O nervosismo senti, principalmente, depois do assédio. No momento, porém, fiquei relativamente calmo. Provavelmente porque tudo aconteceu tão rápido e de forma tão estranha que demorei para processar. 
 
-Durante o restante do caminho, agora passando por outra universidade que tem na mesma avenida, mais um senhor chama minha atenção.
-Ele estava de bicicleta do outro lado da rua, tinha uma barba grande e grisalha e usava um chapéu de pescador. Ele passou me encarando muito, totalmente sem motivo.
-Depois virou na rua que eu ia entrar sem perder seus olhos de mim, fugindo do meu campo de visão. Tudo parecia tão surreal que não sabia sequer mais como reagir.
-Felizmente, cheguei em casa em segurança, sem mais nada esquisito no caminho.
+Durante o restante do caminho, agora passando por outra universidade que tem na mesma avenida, mais um senhor chama minha atenção. Ele estava de bicicleta do outro lado da rua, tinha uma barba grande e grisalha e usava um chapéu de pescador. Ele passou me encarando muito, totalmente sem motivo. Depois virou na rua que eu ia entrar sem perder seus olhos de mim, fugindo do meu campo de visão. Tudo parecia tão surreal que não sabia sequer mais como reagir. Felizmente, cheguei em casa em segurança, sem mais nada esquisito no caminho.
 
