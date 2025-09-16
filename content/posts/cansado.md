@@ -22,7 +22,7 @@ Pode parecer bobo tentar pintar um problema individual como uma grande doença s
 
 Pelo fato de eu estar reclamando tanto pode parecer que minha vida está muito pior do que era, mas eu discordo. Afirmo com tranquilidade que estou vivendo a melhor fase da minha vida até o presente momento. O problema é que sempre tem algo lá que está errado, que faz eu não me sentir encaixado, um desconforto no fundo da alma até nos momentos mais felizes. Um cansaço constante. Acho que não a toa, estou ouvindo tanto *Burial*, que foi uma das minhas melhores redescobertas nos últimos tempos. Quando ouço, esse sentimento de inumanidade, de não-pertencimento, de falta de perspectiva parece estar perfeitamente representado. Em *Burial* é possível ouvir ecos de um futuro que nunca ocorreu, como afirmou Mark Fisher ao falar do conceito de *Hauntology* (Assombrologia? Hauntologia? Não sei como se traduziria).  
 
-A verdade é que não sei muito bem porque continuo vivendo. Não há esperança de um futuro melhor e não aprecio minha existência. Acho que no fundo o que me mantêm vivo é o apreço que tenho pelos outros, mesmo não tendo por mim, viver, mesmo como que como só um espectador das coisas belas, é melhor do que não viver.
+A verdade é que não sei muito bem porque continuo vivendo. Não há esperança de um futuro melhor e não aprecio minha existência. Acho que no fundo o que me mantêm vivo é o apreço que tenho pelos outros, mesmo não tendo por mim, viver, mesmo que como só um espectador das coisas belas, é melhor do que não viver.
 
 Termino com uma frase que vi em um episódio de Sopranos e que me tocou bastante:
 > Sometimes I go about in pity for myself, and all the while, a great wind carries me across the sky.
