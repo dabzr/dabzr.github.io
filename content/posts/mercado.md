@@ -12,9 +12,9 @@ sem reflexão,
 por um instinto de autodestruição,
 encontro-me neste errante estado.
 O Lixo espalhado 
-junto à pomba acanhada ao lado,
+junto à pomba acanhada
 compõe uma paisagem desgraçada. 
-Ela, porém, não é o pior da caminhada;
+Ela, porém, não é o pior do caminhado;
 
 O pior é o seu fim:
 o desajeitado mercado,
