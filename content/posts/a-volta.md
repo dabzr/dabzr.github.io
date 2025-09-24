@@ -3,7 +3,7 @@ author = "Dylan"
 title = "A Volta"
 date = "2025-08-15"
 tags = [
-    "Crônica", "Relato", "Português", "Texto Literário"
+    "Crônica", "Relato", "Português", "Texto Literário", "Cotidiano"
 ]
 +++
 
