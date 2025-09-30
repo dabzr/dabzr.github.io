@@ -22,7 +22,7 @@ Existir tem sido cada vez mais difícil.
 Eu existo, mas não queria, queria ser indiferente, tal como aquela árvore amarelada. Poderia existir apenas como um espectador, assistindo os encontros e desencontros das pessoas que tanto me interessam. Morrer não me parece uma boa opção, prefiro existir, mas se pudesse escolher como seria minha existência, assim seria.
 
 "Eu nunca fiz senão sonhar", disse o poeta.
-(Você talvez nem tenha percebido, mas no parágrafo acima foi, por inteiro, um devaneio.) 
+(Você talvez nem tenha percebido, mas o parágrafo acima foi, por inteiro, um devaneio.) 
 Meu sonho mais recorrente é com o amor, onde deslizo minha mão sobre aqueles macios cabelos castanhos e sinto a pele suave daquele outro rosto que ainda não tem semblante algum. Nunca amarei nem serei amado, mas isso não me perturba, sempre sonhei e nunca vivi, nunca esperei que fosse ser diferente.
 
 Foi assim que me perdi no meu mundo.
