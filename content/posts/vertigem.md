@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-![capa de The Book of Disquiet(Livro do Desassossego) da editora Penguin](https://github.com/dabzr/dabzr.github.io/blob/main/images/disquiet.jpg?raw=true)
+![capa de The Book of Disquiet(Livro do Desassossego) da editora Penguin](https://github.com/dabzr/dabzr.github.io/blob/main/images/disquiet.png?raw=true)
 
 *Sensação de oscilação, de instabilidade corporal, caracterizada pela perda de equilíbrio; tonteira.*
 
