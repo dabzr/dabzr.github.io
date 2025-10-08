@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-![La Voix du sang (1948) de René Magritte](https://github.com/dabzr/dabzr.github.io/blob/main/images/the-voice-of-blood-1948.jpg?raw=true)
+![La Voix du sang (1948) de René Magritte](https://github.com/dabzr/dabzr.github.io/blob/main/images/the-voice-of-blood.jpg?raw=true)
 
 Minha visão é granulada, como se feita em fita. O ruído da gravação analógica produzida pelos meus olhos estavá lá há 20 anos e só agora o reparei. É estranho estar de olhos verdadeiramente abertos e perceber que tudo pulsa tanto quanto meu peito — as paredes pulsam, a luz pulsa e tudo que minha lente ocular decide focar por tempo suficiente acabar por pulsar. Agora de olhos fechados, cansado de tanto ver, apoio o nariz em meus braços e sinto o cheiro do perfume tão terno e tão tímido que hoje e amanhã só poderá ser por mim sentido. 
 Por que me sinto tão confortável? A essa hora eu deveria estar absolutamente impaciente, sem pensamentos coesos e racionais, com apenas uma náusea me perturbando. Por que meu cérebro decidiu, tão repentinamente, contemplar com todas as forças essa pequena sala fria e escura?
