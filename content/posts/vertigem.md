@@ -3,7 +3,7 @@ author = "Dylan"
 title = "Palavra do dia: Vertigem"
 date = "2025-09-30"
 tags = [
-    "Texto Literário", "Português", "Desabafo", "Conversa"
+    "Texto Literário", "Português", "Desabafo", "Conversa", "Cotidiano"
 ]
 +++
 
